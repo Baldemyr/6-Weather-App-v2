@@ -1,0 +1,18 @@
+:root {
+    --border: 5px solid rgb(80, 69, 119);
+    --radius: 10px;
+    --white: white;
+    --bg-color: rgb(100, 90, 138);
+    --bg-color-light: rgb(146, 156, 184);
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(39, 71, 130);
+  }
+
+  .jumbotron {
+    
+    background-color: rgb(97, 110, 144);
+    color: var(--white);
+}
